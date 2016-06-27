@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet
+END
+Filter.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/Filter.class
+END
+ServletRequestWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletRequestWrapper.class
+END
+ServletRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletRequest.class
+END
+ServletRequestEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletRequestEvent.class
+END
+ServletOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletOutputStream.class
+END
+ServletContextAttributeListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletContextAttributeListener.class
+END
+ServletException.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletException.class
+END
+ServletContextEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletContextEvent.class
+END
+Servlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/Servlet.class
+END
+ServletResponseWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletResponseWrapper.class
+END
+FilterChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/FilterChain.class
+END
+ServletRequestAttributeListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletRequestAttributeListener.class
+END
+LocalStrings_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/LocalStrings_fr.properties
+END
+LocalStrings_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/LocalStrings_ja.properties
+END
+ServletConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletConfig.class
+END
+UnavailableException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/UnavailableException.class
+END
+ServletRequestAttributeEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletRequestAttributeEvent.class
+END
+SingleThreadModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/SingleThreadModel.class
+END
+GenericServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/GenericServlet.class
+END
+ServletInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletInputStream.class
+END
+RequestDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/RequestDispatcher.class
+END
+ServletContextListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletContextListener.class
+END
+ServletContextAttributeEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletContextAttributeEvent.class
+END
+LocalStrings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/LocalStrings.properties
+END
+ServletResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletResponse.class
+END
+ServletContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletContext.class
+END
+ServletRequestListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/ServletRequestListener.class
+END
+FilterConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/FilterConfig.class
+END

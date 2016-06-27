@@ -1,0 +1,83 @@
+
+<project name="HelloSyntel" default="deploywar" basedir=".">
+
+
+	<!-- Define the properties used by the build -->
+
+	<property environment="env" />
+	<property file="build.properties" />
+	<property name="app.name"      value="syntel"/>
+	<property name="build.dir"    value="build"/>
+	<property name="war.dir"     value="war"/>
+	<property name="src.dir"      value="src"/>
+	<property name="web.dir"      value="WebContent"/>
+	<property name="deploy.path"      value="C:\Users\HOME\Downloads\apache-tomcat-9.0.0.M6\webapps"/>
+	<!--<property name="deploy.path"      value="C:\Apache\Tomcat\webapps"/> -->
+	
+
+
+	<!-- Define the CLASSPATH -->
+	<path id="compile.classpath">
+		<pathelement path="${env.CLASSPATH}"/>
+		<pathelement path="${build.dir}"/>
+		<fileset dir="${web.dir}">
+			<include name="**/*.jar"/>
+		</fileset>
+	</path>
+
+	<path id="tomcat.classpath">
+		<fileset dir="${tomcat.home}">
+			<include name="**/*.jar"/>
+		</fileset>
+	</path>
+
+	<!-- CLEAN  PROCESS  -->
+	<target name="clean" description="Delete old directories">
+		<delete dir="${build.dir}"/>
+		<delete dir="${war.dir}"/>
+	</target>
+
+	<target name="prepare" depends="clean" description="Create working dirs and copy static files to work dir">
+		<mkdir  dir="${war.dir}"/>
+		<mkdir  dir="${build.dir}/WEB-INF/classes"/>
+	</target>
+
+	<target name="compile" depends="prepare" description="Compile Java sources and copy to WEB-INF/classes dir">
+		<javac srcdir="${src.dir}" destdir="${build.dir}/WEB-INF/classes">
+			<classpath refid="compile.classpath"/>
+		</javac>
+		<copy  todir="${build.dir}/WEB-INF/classes">
+			<fileset dir="${src.dir}" excludes="**/*.java"/>
+		</copy>
+		<!-- Copy static HTML and JSP, CSS, JS files to work dir -->
+		<copy todir="${build.dir}">
+			<fileset dir="${web.dir}">
+				<exclude name="**/servlet-api-2.5.jar"/>
+			</fileset>
+		</copy>
+
+	</target>
+
+
+	<target name="build-war" depends="compile" description="Create WAR file ">
+		<war warfile="${war.dir}/${app.name}.war" basedir="${build.dir}"/>
+	</target>
+
+	<target name="deploywar" depends="undeploy" description="Deploy application as a WAR file">
+		<copy todir="${deploy.path}" preservelastmodified="true">
+			<fileset dir="${war.dir}">
+				<include name="*.war"/>
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="undeploy" depends="build-war" description="Un-Deploy application">
+		<delete file="${deploy.path}/${app.name}.war" failonerror="false"/>
+		<delete failonerror="false">
+			<fileset dir="${deploy.path}/${app.name}">
+				<include name="**/*.*"/>
+			</fileset>
+		</delete>
+	</target>
+
+</project>

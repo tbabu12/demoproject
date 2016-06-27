@@ -1,0 +1,47 @@
+8
+
+dir
+17
+https://admin/svn/SBI/trunk/HelloSyntel/WebContent/WEB-INF/lib
+https://admin/svn/SBI
+
+
+
+2016-06-13T13:06:47.416363Z
+17
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+809071a7-8055-6641-b40a-cedd4c94e67f
+
+META-INF
+dir
+
+javax
+dir
+
+servlet-api-2.5.jar
+file
+
+
+
+
+2016-06-13T13:17:29.674000Z
+69ca51af4e9a67a1027a7f95b52c3e8f
+2016-06-13T13:06:47.416363Z
+17
+admin
+has-props
+

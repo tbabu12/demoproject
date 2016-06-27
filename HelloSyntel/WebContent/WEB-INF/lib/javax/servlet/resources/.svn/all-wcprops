@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources
+END
+web-app_2_2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/web-app_2_2.dtd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/xml.xsd
+END
+j2ee_1_4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/j2ee_1_4.xsd
+END
+jsp_2_1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/jsp_2_1.xsd
+END
+j2ee_web_services_client_1_1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+END
+web-app_2_5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/web-app_2_5.xsd
+END
+web-app_2_3.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/web-app_2_3.dtd
+END
+datatypes.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/datatypes.dtd
+END
+jsp_2_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/jsp_2_0.xsd
+END
+web-app_2_4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/web-app_2_4.xsd
+END
+javaee_5.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/javaee_5.xsd
+END
+javaee_web_services_client_1_2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/javaee_web_services_client_1_2.xsd
+END
+XMLSchema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SBI/!svn/ver/17/trunk/HelloSyntel/WebContent/WEB-INF/lib/javax/servlet/resources/XMLSchema.dtd
+END
